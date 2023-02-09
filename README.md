@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikail Asada</h1>
 
-<p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several preject applications using such as tech stack like React, ReactNative, MongoDB, MySQL, ExpressJS, and mostly integrations use NodeJS. You can see all my portfolio project here, I'm currently figuring out what to focus on for my tech specialization</p>
+<p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several project applications using such as tech stack like React, ReactNative, MongoDB, MySQL, ExpressJS, and mostly integrations use NodeJS. You can see all my portfolio project here, I'm currently figuring out what to focus on for my tech specialization</p>
 
 [![Image](https://holopin.me/asada)](https://holopin.io/@asada)
 
@@ -10,9 +10,11 @@
 
 - 🔭 I’m currently working on [Artristik](https://artristik.co.id)
 
+- 👨‍💻 I'm cureently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu/smm-barat/public/beranda)
+
 - 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, MySQL**
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
+- 🗂️ All of my projects are available at [Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
 
 - 📫 How to reach me **mikailasada@gmail.com**
 
