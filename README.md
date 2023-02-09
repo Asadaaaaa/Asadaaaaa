@@ -15,7 +15,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Artristik](https://artristik.co.id)
+- 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
 
 - 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu/smm-barat/public/beranda)
 
