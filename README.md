@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Artristik](https://artristik.co.id)
 
-- 🌱 I’m currently learning **React, NodeJS, ExpressJS, MongoDB, PostgreSQL, Axios, TailwindCSS**
+- 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Asadaaaaa?tab=repositories](https://github.com/Asadaaaaa?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
 
 - 📫 How to reach me **mikailasada@gmail.com**
 
