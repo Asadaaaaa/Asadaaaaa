@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mikail Asada</h1>
+<h2 align="center">Howdey! 👋, I'm Mikail Asada</h2>
 
 <p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several project applications using such as tech stack like React, ReactNative, TailwindCSS, ExpressJS, Axios, MongoDB, MySQL, PostgreSQL, and mostly integrations use NodeJS. I am usually positioned as a BackEnd developer on the projects I work on. You can see all my portfolio project here, I'm currently trying to figuring out what to focus on for my tech specialization</p>
 <hr>
@@ -19,7 +19,7 @@
 
 - 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu/smm-barat/public/beranda)
 
-- 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, MySQL**
+- 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, and MySQL**
 
 - 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
 
