@@ -1,7 +1,7 @@
 <h2 align="center">Howdey! 👋, I'm Mikail Asada</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="asadaaaaa" /> </p>
-<p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several project applications using such as tech stack like React, ReactNative, TailwindCSS, ExpressJS, Axios, MongoDB, MySQL, PostgreSQL, and mostly integrations use NodeJS. I am usually positioned as a BackEnd developer on the projects I work on. You can see all my portfolio project here, I'm currently trying to figuring out what to focus on for my tech specialization</p>
+<p align="center">I'm a Software Engineering student at the Universitas Pendidikan Indonesia, with a passion for creating innovative and impactful software applications. With expertise in tech stacks such as React, ReactNative, TailwindCSS, ExpressJS, Axios, MongoDB, MySQL, PostgreSQL, and NodeJS, I excel as a BackEnd developer, bringing projects to life with my skills and creativity. My portfolio showcases my unique ability to bring together technology and design to create engaging and user-friendly software experiences. In addition to my technical expertise, I am known for my strategic thinking and problem-solving skills. I am constantly seeking new challenges and opportunities to expand my knowledge and take my skills to the next level. As I move forward, I am eager to continue honing my craft and finding my niche in the tech world.</p>
 <hr>
 <br>
 
