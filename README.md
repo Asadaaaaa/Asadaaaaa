@@ -4,7 +4,6 @@
 <p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several project applications using such as tech stack like React, ReactNative, TailwindCSS, ExpressJS, Axios, MongoDB, MySQL, PostgreSQL, and mostly integrations use NodeJS. I am usually positioned as a BackEnd developer on the projects I work on. You can see all my portfolio project here, I'm currently trying to figuring out what to focus on for my tech specialization</p>
 <hr>
 <br>
-<h3>Holopin Badge</h3>
 
 [![Image](https://holopin.me/asada)](https://holopin.io/@asada)
 
