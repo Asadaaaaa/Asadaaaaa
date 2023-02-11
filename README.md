@@ -1,5 +1,6 @@
 <h2 align="center">Howdey! 👋, I'm Mikail Asada</h2>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asadaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="asadaaaaa" /> </p>
 <p align="center">Currently I'm a Software Engineering student at the Universitas Pendidikan Indonesia. I'm very interested in software development, and now im studying and developing several project applications using such as tech stack like React, ReactNative, TailwindCSS, ExpressJS, Axios, MongoDB, MySQL, PostgreSQL, and mostly integrations use NodeJS. I am usually positioned as a BackEnd developer on the projects I work on. You can see all my portfolio project here, I'm currently trying to figuring out what to focus on for my tech specialization</p>
 <hr>
 <br>
@@ -9,11 +10,6 @@
 
 <hr>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="asadaaaaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadaaaaa" alt="asadaaaaa" /></a> </p>
-
-<hr>
 
 - 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
 
@@ -44,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadaaaaa&show_icons=true&locale=en" alt="asadaaaaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadaaaaa&" alt="asadaaaaa" /></p>
+<hr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadaaaaa" alt="asadaaaaa" /></a> </p>
