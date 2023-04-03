@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
 
-- 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu/smm-barat/public/beranda)
+- 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu:8080/snbp/beranda)
 
 - 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, and MySQL**
 
