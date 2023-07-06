@@ -10,6 +10,8 @@
 <hr>
 <br>
 
+- 👨‍💻 I am the Tech Lead of the Sersow application platform [Sersow](https://beta.sersow.otech.id)
+
 - 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
 
 - 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu:8080/snbp/beranda)
