@@ -10,9 +10,9 @@
 <hr>
 <br>
 
-- 🌟 I am the Tech Lead of the best Project Showcase platform that is [Sersow](https://beta.sersow.otech.id)
+- 🌟 I am the tech leader of the best project showcase platform that is [Sersow](https://beta.sersow.otech.id)
 
-- 🔭 I’m currently working as an Backen Developer
+- 🔭 I’m currently working as an Backend Developer and Devops
 
 - 🌱 I’m currently working using tech stack such as **React, NextJS, TailwindCSS, ExpressJS, Axios, MongoDB, PostgreSQL, and MySQL**
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mikail-asada-b6886a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikail-asada-b6886a17a" height="30" width="40" /></a>
 <a href="https://instagram.com/mikailasada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikailasada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mikail asada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikail asada" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@asada9318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikail asada" height="30" width="40" /></a>
 </p>
 
 <hr>
