@@ -12,13 +12,11 @@
 
 - 🌟 I am the Tech Lead of the best Project Showcase platform that is [Sersow](https://beta.sersow.otech.id)
 
-- 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
+- 🔭 I’m currently working as an Backen Developer
 
-- 👨‍💻 I'm currently developing a website from office work for re-registration student in Universitas Pendidikan Indonesia [PMB.UPI.EDU](http://app.pmb.upi.edu:8080/snbp/beranda)
+- 🌱 I’m currently working using tech stack such as **React, NextJS, TailwindCSS, ExpressJS, Axios, MongoDB, PostgreSQL, and MySQL**
 
-- 🌱 I’m currently learning **React, ReactNative, TailwindCSS, ExpressJS, SocketIO, Axios, MongoDB, PostgreSQL, and MySQL**
-
-- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
+- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories) and at my platform [Sersow](https://beta.sersow.otech.id/profile/asada)
 
 - 📫 How to reach me **mikailasada@gmail.com**
 
