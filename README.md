@@ -10,7 +10,7 @@
 <hr>
 <br>
 
-- 👨‍💻 I am the Tech Lead of the Sersow application platform [Sersow](https://beta.sersow.otech.id)
+- 🌟 I am the Tech Lead of the best Project Showcase platform that is [Sersow](https://beta.sersow.otech.id)
 
 - 🔭 I’m currently working on [Artristik Studio Bandung](https://artristik.co.id)
 
