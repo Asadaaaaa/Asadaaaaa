@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working using tech stack such as **React, NextJS, TailwindCSS, ExpressJS, Axios, MongoDB, PostgreSQL, and MySQL**
 
-- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories) and at my platform [Sersow](https://beta.sersow.otech.id/profile/asada)
+- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories) and at my platform [Sersow](https://sersow.com/profile/asada)
 
 - 📫 How to reach me **mikailasada@gmail.com**
 
