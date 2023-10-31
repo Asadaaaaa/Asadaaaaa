@@ -10,7 +10,7 @@
 <hr>
 <br>
 
-- 🌟 I am the tech leader of the best project showcase platform that is [Sersow](https://beta.sersow.otech.id)
+- 🌟 I am the tech leader of the best project showcase platform that is [Sersow](https://sersow.com)
 
 - 🔭 I’m currently working as an Backend Developer and Devops
 
