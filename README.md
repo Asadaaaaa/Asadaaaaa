@@ -24,6 +24,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mikail-asada-b6886a17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikail-asada-b6886a17a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikailasada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikail-asada-b6886a17a" height="30" width="40" /></a>
 <a href="https://instagram.com/mikailasada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikailasada" height="30" width="40" /></a>
 </p>
