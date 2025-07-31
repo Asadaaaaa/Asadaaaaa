@@ -12,7 +12,7 @@
 
 - 🌟 I am the tech leader of the best project showcase platform that is [Sersow](https://sersow.com)
 
-- 🔭 I’m currently working as an Backend Developer and Devops
+- 🔭 I’m currently working as an Back-end Engineer
 
 - 🌱 I’m currently working using tech stack such as **React, NextJS, TailwindCSS, ExpressJS, Axios, MongoDB, PostgreSQL, and MySQL**
 
