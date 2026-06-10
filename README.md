@@ -10,13 +10,11 @@
 <hr>
 <br>
 
-- 🌟 I am the tech leader of the best project showcase platform that is [Sersow](https://sersow.com)
-
-- 🔭 I’m currently working as an Back-end Engineer
+🔭 I’m currently working as an Back-end Engineer
 
 - 🌱 I’m currently working using tech stack such as **React, NextJS, TailwindCSS, ExpressJS, Axios, MongoDB, PostgreSQL, and MySQL**
 
-- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories) and at my platform [Sersow](https://sersow.com/profile/asada)
+- 🗂️ All of my projects are available at [My Github Repositories](https://github.com/Asadaaaaa?tab=repositories)
 
 - 📫 How to reach me **mikailasada@gmail.com**
 
