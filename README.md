@@ -1,7 +1,7 @@
 <h2 align="center">Howdey! 👋, I'm Mikail Asada</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="asadaaaaa" /> </p>
-<p align="center">I'm a highly self motivated Back-End Software Engineer with 5+ years of experience in NodeJS, Golang, C++, PHP, and relational databases. Skilled in software development strategies, CI/CD, server management, and DevOps, I excel at building scalable and efficient systems. With 5 years of professional experience, I'm also pursuing a Software Engineering degree at Universitas Pendidikan Indonesia. I embrace leadership, adaptability, and teamwork. Goal-oriented, self-motivated, and open-minded, I quickly learn new technologies and simplify complex problems into fast, effective solutions. Most of the programming knowledge I got is self-taught, I learn by reading documentation and from videos.</p>
+<p align="center">I'm a highly self motivated Back-End Software Engineer with 5+ years of experience in NodeJS, Golang, C++, PHP, and relational databases. Skilled in software development strategies, CI/CD, server management, and DevOps, I excel at building scalable and efficient systems. With 4 years of professional experience, I'm also pursuing a Software Engineering degree at Universitas Pendidikan Indonesia. I embrace leadership, adaptability, and teamwork. Goal-oriented, self-motivated, and open-minded, I quickly learn new technologies and simplify complex problems into fast, effective solutions. Most of the programming knowledge I got is self-taught, I learn by reading documentation and from videos.</p>
 <hr>
 <br>
 
